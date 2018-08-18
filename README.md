@@ -1,4 +1,4 @@
-#SokoGrid
+# SokoGrid
 
 SokoGrid is a clon of a Sokoban clone called [Starpusher](https://github.com/silshack/starpusher) by Al Sweigert, with graphics the [Planet Cute](http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html) collection and levels by David W. Skinner.
 
